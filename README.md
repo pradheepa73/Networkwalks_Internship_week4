@@ -174,16 +174,6 @@ A total of **24 high-quality screenshots** are included in the `M1`, `M2`, and `
 
 ---
 
-## 📄 Full Penetration Test Report
-
-The complete, comprehensive report is available below:
-
-📄 **[Mediroza_Penetration_Test_Report_Pradheepa_M.pdf](./Mediroza_Penetration_Test_Report_Pradheepa_M.pdf)**
-
-> *This report contains detailed findings, exploitation steps, remediation recommendations, and a full breakdown of all discovered vulnerabilities.*
-
----
-
 ## ⚠️ Ethical & Legal Disclaimer
 
 > **IMPORTANT**
